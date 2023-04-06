@@ -1,4 +1,11 @@
-name: Jobs to update datas
+name: Generate Datas
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
       # Summary Cards
