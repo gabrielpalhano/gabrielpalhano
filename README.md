@@ -22,5 +22,3 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
-
-![snake gif](https://github.com/gabrielpalhano/gabrielpalhano/blob/output/github-contribution-grid-snake.svg)
